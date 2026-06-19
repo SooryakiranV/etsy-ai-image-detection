@@ -31,6 +31,9 @@ This project detects whether an Etsy product image is authentic or AI-generated 
 | Frequency Classifier | 0.9145 |
 | Final Ensemble | 0.9270 |
 
+## Architecture
+
+![Architecture](etsy_architecture_paper.svg)
 
 ## Technologies
 
