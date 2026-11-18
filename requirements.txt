@@ -10,3 +10,4 @@ scipy
 pywavelets
 matplotlib
 tqdm
+jupyter
